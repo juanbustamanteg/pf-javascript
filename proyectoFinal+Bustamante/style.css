@@ -1,0 +1,16 @@
+.body {
+    background-image: linear-gradient(rgb(60, 108, 167), rgb(241, 241, 230));
+}
+
+.buttonMenu {
+    color:rgb(227, 227, 227); font-weight: bold;
+}
+
+
+.ultimaCompra {
+    background-color: rgb(108, 221, 185); border:rgb(0, 0, 0);
+}
+
+.tituloPagina {
+    background-color:rgb(62, 61, 61) ; color:azure;
+}

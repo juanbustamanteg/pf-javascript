@@ -1,0 +1,134 @@
+{
+  "productos": [
+
+      {
+          "nombre": "Harry Potter y la piedra filosofal",
+          "autor": "J. K. Rowling",
+          "precio": "12",
+          "fuente": "./imagenes/harry1.jpg"
+          
+        },
+
+        {
+          "nombre": "Harry Potter y la Cámara de los Secretos",
+          "autor": "J. K. Rowling",
+          "precio": "12",
+          "fuente": "./imagenes/harry2.jpg"
+        },
+
+        {
+          "nombre": "Harry Potter y el Prisionero de Azkaban",
+          "autor": "J. K. Rowling",
+          "precio": "13",
+          "fuente": "./imagenes/harry3.jpg"
+        },
+
+        {
+          "nombre": "Harry Potter y el Caliz de Fuego",
+          "autor": "J. K. Rowling",
+          "precio": "14",
+          "fuente": "./imagenes/harry4.jpg"
+        },
+
+        {
+          "nombre": "Harry Potter y la Órden del Fénix",
+          "autor": "J. K. Rowling",
+          "precio": "15",
+          "fuente": "./imagenes/harry5.jpg"
+        },
+        
+        {
+          "nombre": "Harry Potter y el Príncipe Mestizo",
+          "autor": "J. K. Rowling",
+          "precio": "15",
+          "fuente": "./imagenes/harry6.jpg"
+      },
+
+      {
+        "nombre": "Harry Potter y las Reliquias de la Muerte",
+        "autor": "J. K. Rowling",
+        "precio": "15",
+        "fuente": "./imagenes/harry7.jpg"
+      },
+      
+      {
+        "nombre": "El Señor de los Anillos: La Comunidad del Anillo",
+        "autor": "J. R. R. Tolkien",
+        "precio": "14",
+        "fuente": "./imagenes/señor1.jpg"
+      },
+        
+      {
+        "nombre": "El Señor de los Anillos: Las Dos Torres",
+        "autor": "J. R. R. Tolkien",
+        "precio": "15",
+        "fuente": "./imagenes/señor2.jpg"
+    },
+
+    {
+      "nombre": "El Señor de los Anillos: El Retorno del Rey",
+      "autor": "J. R. R. Tolkien",
+      "precio": "15",
+      "fuente": "./imagenes/señor3.jpg"
+    },
+    
+    {
+      "nombre": "Percy Jackson y El Ladrón del Rayo",
+      "autor": "Rick Riordan",
+      "precio": "12",
+      "fuente": "./imagenes/percy1.jpg"
+    },
+
+    {
+      "nombre": "Percy Jackson y El Mar de Monstruos",
+      "autor": "Rick Riordan",
+      "precio": "13",
+      "fuente": "./imagenes/percy2.jpg"
+    },
+
+    {
+      "nombre": "Percy Jackson y La Maldición del Titán",
+      "autor": "Rick Riordan",
+      "precio": "15",
+      "fuente": "./imagenes/percy3.jpg"
+    },
+
+    {
+      "nombre": "Percy Jackson y la Batalla del Laberinto ",
+      "autor": "Rick Riordan",
+      "precio": "14",
+      "fuente": "./imagenes/percy4.jpg"
+    },
+
+    {
+      "nombre": "Percy Jackson y El Último Héroe del Olimpo",
+      "autor": "Rick Riordan",
+      "precio": "15",
+      "fuente": "./imagenes/percy5.jpg"
+    },
+
+    {
+      "nombre": "Skandur y el Legado de Marduk",
+      "autor": "Juan Bustamante",
+      "precio": "13",
+      "fuente": "./imagenes/skandur1.jpg"
+    },
+
+    {
+      "nombre": "Skandur y la Puerta de Nergal",
+      "autor": "Juan Bustamante",
+      "precio": "16",
+      "fuente": "./imagenes/skandur2.jpg"
+    },
+
+    {
+      "nombre": "Skandur y la Espada de Enki",
+      "autor": "Juan Bustamante",
+      "precio": "17",
+      "fuente": "./imagenes/skandur3.jpg"
+    }
+
+
+  ]
+
+}
